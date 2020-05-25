@@ -2,10 +2,6 @@
 
 This repository constains a technical probe with React Native
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for review purposes.
-
 ### Prerequisites
 
 You need Node.js with npm in your computer to run this project. If you need to install it see [this page](https://nodejs.org/es/) 
