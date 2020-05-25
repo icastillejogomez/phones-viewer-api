@@ -6,6 +6,10 @@ This repository constains a technical probe with React Native
 
 You need Node.js with npm in your computer to run this project. If you need to install it see [this page](https://nodejs.org/es/) 
 
+### Server Port
+
+The server is going to listen on port 8080, change Dockerfile exposed port, PORT env var & update the package.json scripts to create the container with the correct mapping port
+
 ## Run on Docker
 
 ### Create Docker build
