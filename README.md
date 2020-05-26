@@ -10,6 +10,18 @@ You need Node.js with npm in your computer to run this project. If you need to i
 
 The server is going to listen on port 8080, change Dockerfile exposed port, PORT env var & update the package.json scripts to create the container with the correct mapping port
 
+### Running test
+
+```sh
+$ yarn install
+or
+$ npm install
+
+$ yarn test
+or
+$ npm run test
+```
+
 ## Run on Docker
 
 ### Create Docker build
