@@ -9,17 +9,49 @@
     },
     {
         "id": 2,
-        "title": "iPhone 6",
-        "picture": "https://www.macnificos.com/sites/files/styles/product_page_zoom/public/images/product/nuevo-apple-iphone-6s-plus-32gb-gris-espacial-apple-iphone-6s-plus-32gb-gris-espacial-pl1111797.jpg?itok=-62NZfD4",
+        "title": "iPhone 8",
+        "picture": "https://i0.pngocean.com/files/555/701/268/iphone-8-plus-telephone-apple-smartphone-iphone8.jpg",
         "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "color": ["black", "white", "rose"],
+        "price": 599.99
+    },
+    {
+        "id": 3,
+        "title": "iPhone X",
+        "picture": "https://img2.freepng.es/20180330/yye/kisspng-iphone-8-plus-iphone-x-telephone-retina-display-iphone-apple-5abe5084bfebc8.3960632515224218927861.jpg",
+        "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "color": ["black", "white"],
+        "price": 899.99
+    },
+    {
+        "id": 4,
+        "title": "iPhone 11 Pro Max",
+        "picture": "https://static.carrefour.es/hd_510x_/crs/cdn_static/catalog/hd/372988_00_1.jpg",
+        "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "color": ["black", "white", "rose", "gold"],
+        "price": 999.99
+    },
+    {
+        "id": 5,
+        "title": "Galaxy S10",
+        "picture": "https://images.samsung.com/is/image/samsung/es-galaxy-s10-lite-sm-g770fzkdphe-frontprismblack-thumb-206134420",
+        "description": "Los Samsung Galaxy S10 ya son una realidad. Como marca la tradición, y aunque esta vez se ha adelantado al Mobile World Congress, la firma coreana ha presentado sus nuevos dispositivos de gama alta, cuatro móviles en total que vienen a sustituir a los Samsung Galaxy S9 y S9+. En concreto, nos encontramos con un modelo básico, el Galaxy S10e, uno más avanzado bautizado como Galaxy S10+, uno con 5G que no veremos hasta verano y el modelo estándar y el que nos ocupa ahora mismo, el Samsung Galaxy S10.",
         "color": ["black", "white"],
         "price": 389.99
     },
     {
-        "id": 3,
-        "title": "iPhone 6",
-        "picture": "https://www.macnificos.com/sites/files/styles/product_page_zoom/public/images/product/nuevo-apple-iphone-6s-plus-32gb-gris-espacial-apple-iphone-6s-plus-32gb-gris-espacial-pl1111797.jpg?itok=-62NZfD4",
-        "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "id": 6,
+        "title": "Huawei P 20 Lite",
+        "picture": "https://cdn-files.kimovil.com/default/0002/31/thumb_130373_default_big.jpeg",
+        "description": "Finalmente llegó el tan anunciado día. Huawei subió a sus máximos responsables a un escenario de París y se presentaron sus tres nuevos retoños. Uno de ellos como el líder del catálogo, otro con una triple cámara que no está dejando a nadie indiferente y un tercer contendiente. El hermano menor, el Huawei P20 Lite que sigue la saga de 'lites' de la compañía pero mejorando con cada generación.",
+        "color": ["black", "white"],
+        "price": 389.99
+    },
+    {
+        "id": 7,
+        "title": "Nokia 2210",
+        "picture": "https://i0.pngocean.com/files/147/784/19/nokia-2690-nokia-5250-nokia-230-nokia-5230-nokia-1280-smartphone-thumb.jpg",
+        "description": "Nokia Networks is Nokia Corporation's largest division. It is a multinational data networking and telecommunications equipment company headquartered in Espoo, Finland, and is the world's third-largest telecoms equipment manufacturer, measured by 2017 revenues (after Huawei and Cisco).",
         "color": ["black", "white"],
         "price": 389.99
     }
