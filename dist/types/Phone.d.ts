@@ -3,7 +3,7 @@ export declare type Phone = {
     title: string;
     picture: string;
     description: string;
-    color: string;
+    color: string[];
     price: number;
 };
 //# sourceMappingURL=Phone.d.ts.map

@@ -2,9 +2,25 @@
     {
         "id": 1,
         "title": "iPhone 6",
-        "picture": "foo",
-        "description": "foo",
-        "color": "foo",
-        "price": 0
+        "picture": "https://www.macnificos.com/sites/files/styles/product_page_zoom/public/images/product/nuevo-apple-iphone-6s-plus-32gb-gris-espacial-apple-iphone-6s-plus-32gb-gris-espacial-pl1111797.jpg?itok=-62NZfD4",
+        "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "color": ["black", "white"],
+        "price": 389.99
+    },
+    {
+        "id": 2,
+        "title": "iPhone 6",
+        "picture": "https://www.macnificos.com/sites/files/styles/product_page_zoom/public/images/product/nuevo-apple-iphone-6s-plus-32gb-gris-espacial-apple-iphone-6s-plus-32gb-gris-espacial-pl1111797.jpg?itok=-62NZfD4",
+        "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "color": ["black", "white"],
+        "price": 389.99
+    },
+    {
+        "id": 3,
+        "title": "iPhone 6",
+        "picture": "https://www.macnificos.com/sites/files/styles/product_page_zoom/public/images/product/nuevo-apple-iphone-6s-plus-32gb-gris-espacial-apple-iphone-6s-plus-32gb-gris-espacial-pl1111797.jpg?itok=-62NZfD4",
+        "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.",
+        "color": ["black", "white"],
+        "price": 389.99
     }
 ]
