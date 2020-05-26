@@ -12,6 +12,8 @@ The server is going to listen on port 8080, change Dockerfile exposed port, PORT
 
 ### Running test
 
+The fake phone databse must have between 5 and 999 records by testing purpose.
+
 ```sh
 $ yarn install
 or
