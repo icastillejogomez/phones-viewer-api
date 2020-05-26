@@ -20,6 +20,27 @@ $ npm install
 $ yarn test
 or
 $ npm run test
+
+yarn run v1.22.4
+$ mocha -r ts-node/register tests/**/*.spec.ts
+
+
+  fetchMobiles
+    ✓ should return first phone only when offset and limit are 1
+    ✓ should return two objects when call with offset=0 and limit = 2
+    ✓ should not return any value when call with offset = 1000 and limit = 10
+
+  API: phones
+    GET /
+      ✓ should return the first 5 phones
+      ✓ should get a single phone
+      ✓ should not get a single student record
+      ✓ should return 404 response if request index API URI /
+
+
+  7 passing (60ms)
+
+✨  Done in 1.82s.
 ```
 
 ## Run on Docker
