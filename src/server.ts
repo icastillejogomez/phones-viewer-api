@@ -5,7 +5,8 @@ import express from 'express'
 import v1 from './v1'
 
 // Create an express app
-const app: express.Application = express()
+// Need export the app for testing purpose
+export const app: express.Application = express()
 
 // Mapping /api prefix with v1 API
 app.use('/api', v1)
